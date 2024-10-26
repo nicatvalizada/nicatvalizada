@@ -7,10 +7,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nicat.velizade.581) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicatvelizade0)
 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F120119515050921650%2F&count_bg=%23F90000&title_bg=%23000000&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/>
-</a>
-
 
 
 # 💻 My Languages and tools:
