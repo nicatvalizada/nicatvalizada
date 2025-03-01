@@ -20,7 +20,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=nicatvalizada&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicatvalizada&theme=midnight-purple&hide_border=false)<br/>
 
-
+## 📈 **Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicatvalizada&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true" />
+</p>
 
 
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
