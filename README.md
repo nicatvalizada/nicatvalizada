@@ -28,10 +28,10 @@
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!--h1 align="center">Support Me 👨🏻‍💻 </h1>-->
+<!--h1 align="center">Support Me 👨🏻‍💻 
 <p align="center">
 ⠀⠀⠀⠀⠀<img src="vocaloidchibi.png">
-</p>
+</p></h1>-->
 
 
 ### ✍️ Dev Quote
