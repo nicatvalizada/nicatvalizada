@@ -11,7 +11,7 @@
 
 ## 🚀 **Tech Stack & Skills** 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,anaconda,js,py,react,nextjs,cpp,vite,nodejs,tensorflow,git,figma,bash,vue,mongodb,devto,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular,anaconda,js,py,react,nextjs,cpp,vite,nodejs,tensorflow,git,figma,bash,vue,mongodb,devto,aws,pytorch" />
 </p>
 
 
